@@ -1,10 +1,20 @@
 [
-    {
-        "id": 1,
-        "name": "My first Website"
-    },
-    {
-        "id": 2,
-        "name": "FizzBuzz"
-    }
+  {
+    "id": 1,
+    "name": "My first Website",
+    "image": "http://www.4president.us/websites/2000/2000w/gore2000home.gif",
+    "description": "This was my first project. The guy lost, but won the popular vote!"
+  },
+  {
+    "id": 2,
+    "name": "UI Design",
+    "image": "https://i1.wp.com/www.wendyzhou.se/blog/wp-content/uploads/2020/10/best-ux-ui-design-tools-programs.png?w=1280&ssl=1",
+    "description": "Designing uder interfaces is fun. I want to learn more about that..."
+  },
+  {
+    "id": 3,
+    "name": "Mobile UX",
+    "image": "https://bemobee.com/wp-content/uploads/2018/11/ux-mobile_23785-221-626x313.jpg",
+    "description": "I like to design for the mobile platform. The challenges to build UI's for smartphones is challenging but extremly rewarding"
+  }
 ]
