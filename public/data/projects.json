@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "name": "My first Website",
+    "name": "My First Website",
     "image": "http://www.4president.us/websites/2000/2000w/gore2000home.gif",
     "description": "This was my first project. The guy lost, but won the popular vote!"
   },
   {
     "id": 2,
     "name": "UI Design",
-    "image": "https://i1.wp.com/www.wendyzhou.se/blog/wp-content/uploads/2020/10/best-ux-ui-design-tools-programs.png?w=1280&ssl=1",
-    "description": "Designing uder interfaces is fun. I want to learn more about that..."
+    "image": "https://images.unsplash.com/photo-1609921212029-bb5a28e60960?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3868&q=80.gif",
+    "description": "Designing user interfaces is fun. I want to learn more about that..."
   },
   {
     "id": 3,
