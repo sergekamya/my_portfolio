@@ -1,22 +1,27 @@
 //import React, { Component } from "react";
-import React, {useState, useEffect} from "react";
+import React, { useState, useEffect } from "react";
 import { Container, Grid } from "semantic-ui-react";
 import ProjectCard from "./ProjectCard";
 import axios from "axios";
 
-
-
 const Projects = () => {
+const [projects, setProjects] = useState([])
 
-  const [projects, setProjects] = useState([]);
   useEffect(() => {
-    fetchProjects();
+    axios.get("./data/projects.json").then((response) => {
+      setProjects(response.data);
+    });
   }, []);
 
-  const fetchProjects = async () => {
-    const response = await axios("./data/projects.json");
-    setProjects(response.data);
-  };
+  // const [projects, setProjects] = useState([]);
+  // useEffect(() => {
+  //   fetchProjects();
+  // }, []);
+
+  // const fetchProjects = async () => {
+  //   const response = await axios("./data/projects.json");
+  //   setProjects(response.data);
+  // };
 
   let projectsList = projects.map((project) => {
     return (
@@ -35,8 +40,6 @@ const Projects = () => {
 };
 
 export default Projects;
-
-
 
 // class Projects extends Component {
 //   state = {
