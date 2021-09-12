@@ -2,23 +2,23 @@
   {
     "id": 1,
     "name": "Programming",
-    "image": "https://i.postimg.cc/kGsjnxG4/Screenshot-2021-09-11-at-21-45-59.png",
-    "description": "This is my resume"
+    "image": "https://i.postimg.cc/MTtmGKG5/joshua-reddekopp-Gk-FQEOubr-Co-unsplash.jpg",
+    "description": "My latest developed passion is programming and I attend the 2021 Fulstack Developer Bootcamp @ CraftAcademy"
   },
 
   {
     "id": 2,
     "name": "Acting",
-    "image": "https://i.postimg.cc/kGsjnxG4/Screenshot-2021-09-11-at-21-45-59.png",
-    "description": "This is my resume"
+    "image": "https://i.postimg.cc/jqN1Ry6d/b868f96c-379b-4b89-bb26-5496cd48d223.jpg",
+    "description": "I love to express myself artistically and I have starred in different commercials and short films."
   },
 
 
   {
     "id": 3,
-    "name": "Health & Fitness",
-    "image": "https://i.postimg.cc/kGsjnxG4/Screenshot-2021-09-11-at-21-45-59.png",
-    "description": "This is my resume"
+    "name": "Health and Fitness",
+    "image": "https://i.postimg.cc/RVdX0dW9/IMG-1627.jpg",
+    "description": "I love to workout and try different types of training styles. I strive to have a healthy lifestyle and be as active as possible, even as a future programmer!"
   }
 
 ]

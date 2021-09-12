@@ -1,7 +1,7 @@
 describe("User can see Resume", () => {
   beforeEach(() => {
     cy.visit("http://localhost:3000");
-    cy.get("#about-me").click();
+    cy.get("#about-tab").click();
   });
 
   it("displays passions", () => {
