@@ -13,15 +13,7 @@ const [projects, setProjects] = useState([])
     });
   }, []);
 
-  // const [projects, setProjects] = useState([]);
-  // useEffect(() => {
-  //   fetchProjects();
-  // }, []);
 
-  // const fetchProjects = async () => {
-  //   const response = await axios("./data/projects.json");
-  //   setProjects(response.data);
-  // };
 
   let projectsList = projects.map((project) => {
     return (

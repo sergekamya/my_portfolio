@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Programming",
+    "image": "https://i.postimg.cc/kGsjnxG4/Screenshot-2021-09-11-at-21-45-59.png",
+    "description": "This is my resume"
+  },
+
+  {
+    "id": 2,
+    "name": "Acting",
+    "image": "https://i.postimg.cc/kGsjnxG4/Screenshot-2021-09-11-at-21-45-59.png",
+    "description": "This is my resume"
+  },
+
+
+  {
+    "id": 3,
+    "name": "Health & Fitness",
+    "image": "https://i.postimg.cc/kGsjnxG4/Screenshot-2021-09-11-at-21-45-59.png",
+    "description": "This is my resume"
+  }
+
+]
